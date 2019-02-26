@@ -36,3 +36,4 @@ dependencies {
 - [x] Add column and row attributes and funcionality
 - [x] Add orientation attribute and funcionality
 - [ ] Add scroll to top attribute and funcionality
+- [ ] Publish library to jcenter
